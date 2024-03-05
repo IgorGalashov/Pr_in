@@ -22,8 +22,8 @@
 \
 \
 Самостоятельная работа №2\
-Задание  1
-
+Задание  1\
+[image alt](https://github.com/IgorGalashov/Pr_in/blob/main/screen/Снимок.PNG)
 
 
 
