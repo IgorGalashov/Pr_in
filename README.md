@@ -1,7 +1,7 @@
 # Тема 2. Базовые операции языка Python
 Отчёт по теме № 2 выполнил:
 - Галашов Игорь Алексеевич
-- ЗПИЭ 21-1\
+- ЗПИЭ 21-1
   
 	|Задание  |Сам_раб|
   |-------   |-------|
@@ -23,7 +23,8 @@
 \
 Самостоятельная работа №2\
 Задание  1\
-[image alt](https://github.com/IgorGalashov/Pr_in/blob/main/screen/Снимок.PNG)
+\
+![screen](https://github.com/IgorGalashov/Pr_in/blob/main/screen/Снимок.PNG)
 
 
 
